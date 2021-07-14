@@ -42,7 +42,7 @@ title: req.body.postTitle,
 
 posts.push(post);
 
- res.redirect("/");
+ res.redirect("/"); 
 });
 
 
